@@ -1,0 +1,12 @@
+{
+    "name": "vietphung/blog-bundle",
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/symfony": "2.3.*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    }
+}
